@@ -11,6 +11,10 @@
 		DB912C182CB1A1750045C729 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C172CB1A1750045C729 /* ContentView.swift */; };
 		DB912C1A2CB1A1760045C729 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB912C192CB1A1760045C729 /* Assets.xcassets */; };
 		DB912C1D2CB1A1760045C729 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB912C1C2CB1A1760045C729 /* Preview Assets.xcassets */; };
+		DB912C252CB1A47B0045C729 /* ExploreExoplanet.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C242CB1A47B0045C729 /* ExploreExoplanet.swift */; };
+		DB912C272CB1A6E40045C729 /* DrawConstellations.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C262CB1A6E40045C729 /* DrawConstellations.swift */; };
+		DB912C292CB1A6F80045C729 /* FQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C282CB1A6F80045C729 /* FQ.swift */; };
+		DB912C2B2CB1A71C0045C729 /* MC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C2A2CB1A71C0045C729 /* MC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +24,10 @@
 		DB912C192CB1A1760045C729 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB912C1C2CB1A1760045C729 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DB912C1E2CB1A1760045C729 /* NASA_app.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NASA_app.entitlements; sourceTree = "<group>"; };
+		DB912C242CB1A47B0045C729 /* ExploreExoplanet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreExoplanet.swift; sourceTree = "<group>"; };
+		DB912C262CB1A6E40045C729 /* DrawConstellations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawConstellations.swift; sourceTree = "<group>"; };
+		DB912C282CB1A6F80045C729 /* FQ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FQ.swift; sourceTree = "<group>"; };
+		DB912C2A2CB1A71C0045C729 /* MC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,10 @@
 			children = (
 				DB912C152CB1A1750045C729 /* NASA_appApp.swift */,
 				DB912C172CB1A1750045C729 /* ContentView.swift */,
+				DB912C242CB1A47B0045C729 /* ExploreExoplanet.swift */,
+				DB912C262CB1A6E40045C729 /* DrawConstellations.swift */,
+				DB912C282CB1A6F80045C729 /* FQ.swift */,
+				DB912C2A2CB1A71C0045C729 /* MC.swift */,
 				DB912C192CB1A1760045C729 /* Assets.xcassets */,
 				DB912C1E2CB1A1760045C729 /* NASA_app.entitlements */,
 				DB912C1B2CB1A1760045C729 /* Preview Content */,
@@ -140,7 +152,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB912C182CB1A1750045C729 /* ContentView.swift in Sources */,
+				DB912C252CB1A47B0045C729 /* ExploreExoplanet.swift in Sources */,
 				DB912C162CB1A1750045C729 /* NASA_appApp.swift in Sources */,
+				DB912C292CB1A6F80045C729 /* FQ.swift in Sources */,
+				DB912C272CB1A6E40045C729 /* DrawConstellations.swift in Sources */,
+				DB912C2B2CB1A71C0045C729 /* MC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
