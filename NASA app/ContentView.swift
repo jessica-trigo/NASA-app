@@ -190,3 +190,8 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+/*Images are Designed by Freepik, iStock, and from 
+ https://www.desenhar.org/lampada-eletrica/#2
+
+*/
