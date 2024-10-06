@@ -12,6 +12,7 @@
 		DB60C9C22CB2CDD400B4959C /* Kepler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB60C9C12CB2CDD400B4959C /* Kepler.swift */; };
 		DB60C9C42CB2CDF300B4959C /* 55.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB60C9C32CB2CDF300B4959C /* 55.swift */; };
 		DB60C9C62CB2CE0300B4959C /* K2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB60C9C52CB2CE0300B4959C /* K2.swift */; };
+		DB60C9C82CB302F900B4959C /* drawing1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB60C9C72CB302F900B4959C /* drawing1.swift */; };
 		DB912C162CB1A1750045C729 /* NASA_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C152CB1A1750045C729 /* NASA_appApp.swift */; };
 		DB912C182CB1A1750045C729 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB912C172CB1A1750045C729 /* ContentView.swift */; };
 		DB912C1A2CB1A1760045C729 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB912C192CB1A1760045C729 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		DB60C9C12CB2CDD400B4959C /* Kepler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kepler.swift; sourceTree = "<group>"; };
 		DB60C9C32CB2CDF300B4959C /* 55.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 55.swift; sourceTree = "<group>"; };
 		DB60C9C52CB2CE0300B4959C /* K2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K2.swift; sourceTree = "<group>"; };
+		DB60C9C72CB302F900B4959C /* drawing1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drawing1.swift; sourceTree = "<group>"; };
 		DB912C122CB1A1750045C729 /* NASA app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NASA app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB912C152CB1A1750045C729 /* NASA_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NASA_appApp.swift; sourceTree = "<group>"; };
 		DB912C172CB1A1750045C729 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				DB60C9C32CB2CDF300B4959C /* 55.swift */,
 				DB60C9C52CB2CE0300B4959C /* K2.swift */,
 				DB912C262CB1A6E40045C729 /* DrawConstellations.swift */,
+				DB60C9C72CB302F900B4959C /* drawing1.swift */,
 				DB912C282CB1A6F80045C729 /* FQ.swift */,
 				DB912C2A2CB1A71C0045C729 /* MC.swift */,
 				DB912C192CB1A1760045C729 /* Assets.xcassets */,
@@ -168,6 +171,7 @@
 			files = (
 				DB912C182CB1A1750045C729 /* ContentView.swift in Sources */,
 				DB912C252CB1A47B0045C729 /* ExploreExoplanet.swift in Sources */,
+				DB60C9C82CB302F900B4959C /* drawing1.swift in Sources */,
 				DB912C162CB1A1750045C729 /* NASA_appApp.swift in Sources */,
 				DB60C9C62CB2CE0300B4959C /* K2.swift in Sources */,
 				DB60C9C42CB2CDF300B4959C /* 55.swift in Sources */,
